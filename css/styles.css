@@ -35,8 +35,8 @@
 /* estilo de destop */
 
 body {
-  background-color: var(--text-dark);
-  color: var(--bg-dark);
+  background-color: var(--bg-dark);
+  color: var(--text-dark);
 }
 
 header img {
